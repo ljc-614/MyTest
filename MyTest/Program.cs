@@ -10,7 +10,6 @@ namespace MyTest
     {
         static void Main(string[] args)
         {
-            Console.Write("df");
             Console.Write("123");
         }
     }
