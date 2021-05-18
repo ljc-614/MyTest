@@ -11,7 +11,7 @@ namespace MyTest
         static void Main(string[] args)
         {
             Console.Write("123");
-            Console.Write("456");
+            Console.Write("101010");
             Console.ReadKey();
         }
     }
